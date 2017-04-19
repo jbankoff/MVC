@@ -12,6 +12,7 @@ namespace WebApplication2.Tests.Controllers
     [TestClass]
     public class HomeControllerTest
     {
+        // test controller comment
         [TestMethod]
         public void Index()
         {
